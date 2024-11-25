@@ -13,19 +13,19 @@
 
 
 .welcome-card {
-  border: 2px solid hsl(179, 94%, 45%); 
-  background: linear-gradient(145deg, #e00b0b, #c10fed); 
+  border: 2px solid hsl(36, 66%, 63%); 
+  background: linear-gradient(145deg, #c47b7b, #f9ae68e4); 
   box-shadow: 0 4px 6px rgba(31, 2, 2, 0.1);
 }
 
 .card-title {
-  color: #efefef; 
+  color: #150c0c; 
   font-size: 1.8rem;
   font-weight: bold;
 }
 
 .card-subtitle {
-  color: #f7f7f7; 
+  color: #0f0808; 
   font-size: 1.2rem;
   margin-top: 0.5rem;
 }
@@ -36,13 +36,13 @@
 }
 
 .custom-label {
-  color: #ffffff; 
+  color: #1a0606; 
 }
 
 
 .login-button {
-  background-color: #0588ed; 
-  color: rgb(255, 255, 255);
+  background-color: #1a2024; 
+  color: rgb(27, 20, 20);
   font-weight: bold;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -69,5 +69,5 @@
 
 .register-link-text:hover {
   text-decoration: underline;
-  color: #ff6d00; 
+  color: #0d7aee; 
 }

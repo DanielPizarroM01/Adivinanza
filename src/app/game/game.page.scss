@@ -1,5 +1,5 @@
 .custom-background {
-  background-color: #000000; /* Fondo negro */
+  background-color: #000000; 
 }
 
 .game-container {
@@ -13,34 +13,34 @@
 .game-card {
   width: 80%;
   margin: 10px 0;
-  background: linear-gradient(145deg, #e00b0b, #c10fed); /* Rojo a morado */
-  border: 2px solid hsl(179, 94%, 45%);
+  background: linear-gradient(145deg,  #c47b7b, #f9ae68e4); 
+  border: 2px solid hsl(46, 55%, 57%);
   box-shadow: 0 4px 6px rgba(31, 2, 2, 0.1);
 }
 
 .game-card-title {
-  color: #efefef;
+  color: #191616;
   font-weight: bold;
   font-size: 1.6rem;
 }
 
 .game-description {
-  color: #efefef;
+  color: #000000;
   font-size: 1.2rem;
   margin-bottom: 15px;
 }
 
 .custom-input-item {
-  --highlight-color-focused: #ffffff;
+  --highlight-color-focused: #0b0a0a;
 }
 
 .custom-label {
-  color: #ffffff;
+  color: #080505;
 }
 
 .game-button {
-  background-color: #0588ed;
-  color: rgb(255, 255, 255);
+  background-color: #030404;
+  color: rgb(4, 2, 2);
   font-weight: bold;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
